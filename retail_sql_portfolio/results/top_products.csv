@@ -1,0 +1,6 @@
+category,product_id,product_name,revenue,units_sold,category_share_pct
+Books,13,Product 13,981509,1999,6.19
+Clothing,54,Product 54,1015492,1999,4.78
+Electronics,40,Product 40,980000,2000,5.27
+Home,27,Product 27,1017491,1999,5.4
+Sports,81,Product 81,1013493,1999,4.98
