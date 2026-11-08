@@ -1,0 +1,7 @@
+configuration,run,execution_time_ms
+no_index,1,24.128
+with_index,1,22.601
+with_index,2,20.298
+with_index,3,16.347
+with_index,4,18.017
+with_index,5,20.568
